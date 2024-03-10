@@ -1,0 +1,56 @@
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 200;
+  src: local('Oswald ExtraLight'), local('Oswald-ExtraLight'), url(https://web.archive.org/web/20190205052419im_/https://fonts.gstatic.com/s/oswald/v16/TK3hWkUHHAIjg75-1h4TtM9H.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Oswald Light'), local('Oswald-Light'), url(https://web.archive.org/web/20190205052419im_/https://fonts.gstatic.com/s/oswald/v16/TK3hWkUHHAIjg75-sh0TtM9H.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Oswald Regular'), local('Oswald-Regular'), url(https://web.archive.org/web/20190205052419im_/https://fonts.gstatic.com/s/oswald/v16/TK3iWkUHHAIjg752Fz8D.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Oswald Medium'), local('Oswald-Medium'), url(https://web.archive.org/web/20190205052419im_/https://fonts.gstatic.com/s/oswald/v16/TK3hWkUHHAIjg75-6hwTtM9H.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Oswald SemiBold'), local('Oswald-SemiBold'), url(https://web.archive.org/web/20190205052419im_/https://fonts.gstatic.com/s/oswald/v16/TK3hWkUHHAIjg75-xhsTtM9H.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Oswald Bold'), local('Oswald-Bold'), url(https://web.archive.org/web/20190205052419im_/https://fonts.gstatic.com/s/oswald/v16/TK3hWkUHHAIjg75-ohoTtM9H.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 05:24:19 Feb 05, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:32:10 Mar 10, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.087
+  exclusion.robots.policy: 0.072
+  cdx.remote: 0.122
+  esindex: 0.012
+  LoadShardBlock: 299.238 (6)
+  PetaboxLoader3.datanode: 250.764 (7)
+  load_resource: 454.34
+  PetaboxLoader3.resolve: 347.082
+*/
